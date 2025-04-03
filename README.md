@@ -11,9 +11,9 @@ Total Reviews Analyzed: 3,000
 
 17 Neutral (1%) ⚪ → Minimal neutral feedback.
 
-🔹 Key Takeaway: While the majority of customers are happy, nearly 1 in 3 reviews is negative, showing room for improvement.
+### Key Takeaway: While the majority of customers are happy, nearly 1 in 3 reviews is negative, showing room for improvement.
 
-2. Word Cloud Insights - What Are Customers Talking About? ☁️
+## Word Cloud Insights - What Are Customers Talking About? ☁️
 Most Frequent Words: flight, BA, seat, hour, passenger, business class.
 
 ## Possible Customer Priorities:
