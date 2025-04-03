@@ -53,3 +53,60 @@ Suggested Focus Areas for British Airways:
 2. Customer satisfaction strategies should focus on reducing delays and improving comfort.
 
 3. More research may be needed to explore specific negative trends (e.g., which routes have the most complaints).
+
+
+# Customer Booking Prediction - Task 2 Model Summary
+
+### Objective: Predict customer booking behavior based on various factors.
+
+## Data Preparation:
+
+Feature Engineering: Transformed flight_hour into "Time of Day" (Morning, Afternoon, Night).
+
+Bucketing: Created buckets for purchase_lead and length_of_stay to categorize booking behaviors (e.g., "Very long-term", "Long stay").
+
+Customer Preferences: Combined wants_extra_baggage, wants_preferred_seat, and wants_in_flight_meals into a single "Total Preferences" feature.
+
+## Model Used:
+
+Random Forest Classifier: Applied to predict booking completion (binary outcome: 1 = Booking complete, 0 = Not completed).
+
+## Model Evaluation:
+
+Accuracy: 85.32%
+
+Precision (for class 1): 53%
+
+Recall (for class 1): 12%
+
+F1-score: 20% (indicating room for improvement in predicting completed bookings).
+
+## Top 10 Features Affecting Booking Prediction:
+
+Booking Origin
+
+Purchase Lead Time
+
+Length of Stay
+
+Flight Hour
+
+Flight Duration
+
+Number of Passengers
+
+Total Preferences (Baggage, Seat, Meals)
+
+Time of Day (Morning)
+
+Purchase Lead Bucket (Medium-Term)
+
+Time of Day (Night)
+
+## Next Steps:
+
+Address class imbalance in the data (potential solutions: oversampling, undersampling, or advanced techniques like SMOTE).
+
+Fine-tune the model for better recall on class 1 (booked customers).
+
+Further explore and validate the impact of Booking Origin and Purchase Lead on prediction accuracy.
