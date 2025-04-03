@@ -24,21 +24,21 @@ Delays (‘hour’) → Indicates timing issues may be a recurring complaint.
 
 Business Class vs. Economy → Both receive attention, but experiences differ.
 
-3. Business vs. Economy Sentiment 💺
+## Business vs. Economy Sentiment 💺
 Economy Class has both the most positive and the most negative reviews.
 
 Business Class has fewer complaints, suggesting higher satisfaction.
 
-🔹 Key Takeaway: Economy has the most customers, so it dominates both praise and complaints. This signals that while some travelers enjoy the service, many face challenges with comfort, delays, or customer service.
+### Key Takeaway: Economy has the most customers, so it dominates both praise and complaints. This signals that while some travelers enjoy the service, many face challenges with comfort, delays, or customer service.
 
-4. Key Areas for Improvement 🚀
-(From Negative Word Cloud Analysis - if applicable)
+## Key Areas for Improvement 🚀
+1. (From Negative Word Cloud Analysis - if applicable)
 
-Common Complaints in Negative Reviews:
+2. Common Complaints in Negative Reviews:
 
-Delays & Timing Issues (frequent mention of “hour”)
+3. Delays & Timing Issues (frequent mention of “hour”)
 
-Seat Comfort (Economy class concerns)
+4. Seat Comfort (Economy class concerns)
 
 ## Customer Service & Communication
 
