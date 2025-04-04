@@ -107,7 +107,7 @@ Purchase Lead Bucket (Medium-Term)
 
 Time of Day (Night)
 
-![Features Affecting Booking Prediction](task2a.png)
+![Features Affecting Booking Prediction](task 2a.png)
 
 1. booking_origin: This seems to be a very important feature, indicating that where the booking originates from (perhaps the region or platform) has a significant impact on 
    the likelihood of a booking.
