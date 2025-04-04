@@ -11,6 +11,8 @@ Total Reviews Analyzed: 3,000
 
 17 Neutral (1%) ⚪ → Minimal neutral feedback.
 
+![Sentiment Distribution](task1a.png)
+
 ### Key Takeaway: While the majority of customers are happy, nearly 1 in 3 reviews is negative, showing room for improvement.
 
 ## Word Cloud Insights - What Are Customers Talking About? ☁️
