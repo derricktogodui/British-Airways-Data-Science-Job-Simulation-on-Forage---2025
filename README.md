@@ -31,6 +31,8 @@ Economy Class has both the most positive and the most negative reviews.
 
 Business Class has fewer complaints, suggesting higher satisfaction.
 
+![Business vs. Economy Sentiment](task1b.png)
+
 ### Key Takeaway: Economy has the most customers, so it dominates both praise and complaints. This signals that while some travelers enjoy the service, many face challenges with comfort, delays, or customer service.
 
 ## Key Areas for Improvement 🚀
@@ -104,6 +106,8 @@ Time of Day (Morning)
 Purchase Lead Bucket (Medium-Term)
 
 Time of Day (Night)
+
+![Features Affecting Booking Prediction](task2a.png)
 
 1. booking_origin: This seems to be a very important feature, indicating that where the booking originates from (perhaps the region or platform) has a significant impact on 
    the likelihood of a booking.
