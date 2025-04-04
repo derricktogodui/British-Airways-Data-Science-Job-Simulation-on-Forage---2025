@@ -103,6 +103,26 @@ Purchase Lead Bucket (Medium-Term)
 
 Time of Day (Night)
 
+1. booking_origin: This seems to be a very important feature, indicating that where the booking originates from (perhaps the region or platform) has a significant impact on 
+   the likelihood of a booking.
+
+2. purchase_lead: This feature also plays a key role. The time in advance that customers make a booking may provide valuable information for predicting customer behavior.
+
+3. length_of_stay: The duration of the trip is another crucial factor influencing whether a customer books or not.
+
+4. flight_hour: The hour at which the flight is scheduled seems to have an impact, likely indicating certain preferences for times of travel.
+
+5. flight_duration: Longer or shorter flights might be a deciding factor in booking behavior.
+
+6. num_passengers: This feature suggests that the number of passengers also influences the likelihood of a booking.
+
+7. total_preferences: A higher number of preferences (like extra baggage, preferred seating, and in-flight meals) might correlate with more serious or planned bookings.
+
+8. time_of_day_morning and time_of_day_night: These time-related features suggest that the time of day could influence booking behavior, with certain times having higher 
+   booking likelihood.
+
+9. purchase_lead_buckets_Medium-Term: The medium-term booking timeframe is a notable feature, suggesting it may capture a specific customer behavior.
+
 ## Next Steps:
 
 Address class imbalance in the data (potential solutions: oversampling, undersampling, or advanced techniques like SMOTE).
